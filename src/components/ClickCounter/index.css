@@ -1,20 +1,29 @@
 .container {
   background-color: #f1f5f8;
+  margin: 30px;
+  padding: 50px;
 }
 .heading {
   font-family: 'Roboto';
   font-weight: 600;
   color: #2d3a35;
+  text-align: center;
 }
 .count {
   color: #c20a72;
+  text-align: center;
 }
 .description {
   font-family: 'Roboto';
   color: #2d3a35;
+  text-align: center;
 }
+.button {
+  display: flex;
+  justify-content: center;
+}
+
 .btn {
   background-color: #007bff;
-
   color: #ffffff;
 }
